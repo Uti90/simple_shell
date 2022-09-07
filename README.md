@@ -1,1 +1,1 @@
-A simple UNIX interpreter project for ALX
+My readme for simple UNIX interpreter project for ALX
